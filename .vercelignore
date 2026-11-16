@@ -1,0 +1,13 @@
+.git
+.github
+.pytest_cache
+tests
+reports/*.pdf
+node_modules
+AstroKites/node_modules
+venv
+.venv
+__pycache__
+*.pyc
+*.pyo
+.DS_Store

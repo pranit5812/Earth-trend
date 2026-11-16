@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+venv/
+dist/
+.DS_Store
+AgriNova-Proj/
+reports/*.pdf
+.pytest_cache/
