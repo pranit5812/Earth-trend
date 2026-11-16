@@ -1,12 +1,32 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# 🪁 AstroKites - Weather Forecasting & Historical Data Platform
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24,30&height=220&section=header&text=AstroKites%20%F0%9F%A9%81&fontSize=48&fontColor=ffffff&animation=twinkling&desc=AI-Powered%20Weather%20Forecasting%20%26%20Historical%20Climate%20Analytics&descSize=18&descAlignY=68" width="100%" alt="AstroKites Animated Header"/>
+</p>
 
-![AstroKites Logo](./AstroKites/public/astrokites-logo.svg)
+<div align="center">
+  <img src="./AstroKites/public/astrokites-animated.svg" alt="AstroKites Animated Logo" width="120" />
 
-**AstroKites** is a comprehensive weather forecasting platform that provides precise, probability-based weather predictions using NASA POWER data. The platform combines historical weather analysis with interactive visualizations and real-time forecasting capabilities.
+  <br/>
 
----
+  <a href="https://github.com/pranit5812/Earth-trend">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Welcome+to+AstroKites+%F0%9F%A9%81;Precise+Probability-Based+Weather+Forecasting;Decades+of+NASA+POWER+Earth+Observation+Data;Interactive+3D+Globe+%26+Geospatial+Maps;Smart+Climate+Insights+for+Agriculture+%26+Travel;Made+with+%E2%9D%A4%EF%B8%8F+by+Pranit+and+Team" alt="Typing SVG Animation" />
+  </a>
+
+  <p>
+    <strong>AstroKites</strong> is a comprehensive weather forecasting platform that provides precise, probability-based weather predictions using NASA POWER data. The platform combines historical weather analysis with interactive visualizations and real-time forecasting capabilities.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/React-19.1-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/NASA%20POWER-Data%20API-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA POWER" />
+    <img src="https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
+  </p>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px" alt="animated divider" />
+</p>
 
 ## 🌟 Features
 
@@ -182,6 +202,7 @@ AstroKites uses the **NASA Prediction Of Worldwide Energy Resources (POWER)** AP
 Web/
 ├── AstroKites/                    # React Frontend Application
 │   ├── public/
+│   │   ├── astrokites-animated.svg# Animated logo
 │   │   ├── astrokites-logo.svg   # Custom logo
 │   │   └── vite.svg
 │   ├── src/
@@ -282,7 +303,7 @@ Body:
 
 ### Animations
 - Smooth page transitions
-- Animated logo with pulsing effects
+- Animated logo with pulsing and twinkling effects
 - Chart loading animations
 - Interactive hover states
 
@@ -367,7 +388,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
@@ -382,8 +403,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For questions, suggestions, or issues:
-- **Email**: harshparmar1617@gmail.com
+For questions, suggestions, or collaborations:
+- **Author**: Pranit Pawar
+- **Email**: [pranitpawar5812@gmail.com](mailto:pranitpawar5812@gmail.com)
+- **GitHub**: [@pranit5812](https://github.com/pranit5812)
+
+<a href="mailto:pranitpawar5812@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-pranitpawar5812%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pranit"/>
+</a>
 
 ---
 
@@ -400,16 +427,11 @@ For questions, suggestions, or issues:
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px" alt="animated divider" />
+</p>
+
 <div align="center">
-  <strong>Made with ❤️ by the AstroKites Team</strong>
-  <br>
-  <sub>Bringing weather data to life through beautiful visualizations</sub>
+  <h3>Made with ❤️ by Pranit and Team</h3>
+  <sub>Bringing weather data to life through beautiful visualizations and climate intelligence</sub>
 </div>
-=======
-# AgriNova-Proj
-This is project to help the farmars and government bodies.
->>>>>>> 211d8fecea335b7e5172e91aa3212880020bcac0
-=======
-# Climate-project
-AI powered weather prediction and alerts generator 
->>>>>>> 7f2e443eb82e64f2d010259907c37c8ec9b2c80c
