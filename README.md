@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24,30&height=220&section=header&text=AstroKites%20%F0%9F%A9%81&fontSize=48&fontColor=ffffff&animation=twinkling&desc=AI-Powered%20Weather%20Forecasting%20%26%20Historical%20Climate%20Analytics&descSize=18&descAlignY=68" width="100%" alt="AstroKites Animated Header"/>
+  <img src="./AstroKites/public/header-animated.svg" width="100%" alt="AstroKites Animated Header"/>
 </p>
 
 <div align="center">
@@ -8,7 +8,7 @@
   <br/>
 
   <a href="https://github.com/pranit5812/Earth-trend">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Welcome+to+AstroKites+%F0%9F%A9%81;Precise+Probability-Based+Weather+Forecasting;Decades+of+NASA+POWER+Earth+Observation+Data;Interactive+3D+Globe+%26+Geospatial+Maps;Smart+Climate+Insights+for+Agriculture+%26+Travel;Made+with+%E2%9D%A4%EF%B8%8F+by+Pranit+and+Team" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Welcome+to+AstroKites;Precise+Probability-Based+Weather+Forecasting;Decades+of+NASA+POWER+Earth+Observation+Data;Interactive+3D+Globe+and+Geospatial+Maps;Smart+Climate+Insights+for+Agriculture+and+Travel;Made+with+Heart+by+Pranit+and+Team" alt="Typing SVG Animation" />
   </a>
 
   <p>
@@ -202,6 +202,7 @@ AstroKites uses the **NASA Prediction Of Worldwide Energy Resources (POWER)** AP
 Web/
 ├── AstroKites/                    # React Frontend Application
 │   ├── public/
+│   │   ├── header-animated.svg   # Animated wave banner
 │   │   ├── astrokites-animated.svg# Animated logo
 │   │   ├── astrokites-logo.svg   # Custom logo
 │   │   └── vite.svg
